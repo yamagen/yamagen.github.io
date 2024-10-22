@@ -4,4 +4,4 @@
 
 ### KSF: Kanji Statistics Filter
 
-- [ksf](https://yamagen.github.io/ksf/)
+- [ksf](https://github.com/yamagen/ksf/)
