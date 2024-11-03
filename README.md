@@ -2,7 +2,7 @@
 
 Hilofumi Yamamoto, Ph.D. in Linguistics.
 
-<img src="githubicon01.svg" alt="yamagen" width="240" />
+<img src="img/githubicon01.svg" alt="yamagen" width="240" />
 
 - [ksf](https://github.com/yamagen/ksf/): Kanji Statistics Filter
   [![DOI](https://zenodo.org/badge/163961186.svg)](https://zenodo.org/badge/latestdoi/163961186)
