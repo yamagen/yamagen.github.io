@@ -4,7 +4,7 @@ Hilofumi Yamamoto, Ph.D. in Linguistics.
 
 <img src="img/githubicon01.svg" alt="yamagen" width="240" />
 
-- [leaf](https://github.com/yamagen/leaf/): stem leaf distribution printer
+- [leaf](https://github.com/yamagen/slp/): stem leaf distribution plotter
   [![DOI](https://zenodo.org/badge/883773387.svg)](https://doi.org/10.5281/zenodo.14061335)
   ![Static Badge](https://img.shields.io/badge/github-repository-blue?logo=github)
 
