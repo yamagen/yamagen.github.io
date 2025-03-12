@@ -4,6 +4,10 @@ Hilofumi Yamamoto, Ph.D. in Linguistics.
 
 <img src="img/githubicon01.svg" alt="yamagen" width="240" />
 
+- [pgm](https://github.com/yamagen/pgm/): pgm Process Grammar Model
+  [![DOI](https://zenodo.org/badge/939124607.svg)](https://doi.org/10.5281/zenodo.15003729)
+  ![Static Badge](https://img.shields.io/badge/github-repository-blue?logo=github)
+
 - [leaf](https://github.com/yamagen/slp/): stem leaf distribution plotter
   [![DOI](https://zenodo.org/badge/883773387.svg)](https://doi.org/10.5281/zenodo.14061335)
   ![Static Badge](https://img.shields.io/badge/github-repository-blue?logo=github)
